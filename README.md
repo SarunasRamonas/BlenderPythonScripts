@@ -1,4 +1,4 @@
-# Auto glTF Files Importer (Blender 3D)
+# Auto glTF Files Importing Script (Blender 3D)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/your-username/your-repository/blob/master/LICENSE)
 ![Static Badge](https://img.shields.io/badge/Blender%20ver.%20-%20%3E%203.0%20-%20Yellow)
 
