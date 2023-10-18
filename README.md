@@ -11,4 +11,5 @@ To use this script, follow these steps:
 
 1. Paste/import py file to Blender Text Editor;
 2. Edit directory value in code;
+  ![A cat](PrintScreen.png)
 3. Run the script.
