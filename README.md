@@ -10,6 +10,7 @@ This is a script finds all glTF files (recursively) and imports in Blender.
 To use this script, follow these steps:
 
 1. Paste/import py file to Blender Text Editor;
-2. Edit directory value in code;
-  ![A cat](PrintScreen.png)
-3. Run the script.
+2. Run the script.
+
+## Script's UI
+![A cat](PrintScreen.png)
